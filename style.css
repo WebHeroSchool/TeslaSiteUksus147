@@ -1,0 +1,1378 @@
+@media all and (min-width: 375px) {
+  .futuredrive {
+    width: 1000px;
+    height: 70px;
+    left: 200px;
+    top: 2060px;
+    font-weight: 900;
+    font-size: 70px;
+    line-height: 40px;
+  }
+  .describefuture {
+    width: 1000px;
+    height: 406px;
+    left: 100px;
+    top: 2170px;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 60px;
+  }
+  .rectangle {
+    width: 1300px;
+    height: 1000px;
+    left: 0px;
+    top: 2000px;
+  }
+  .arrow {
+    width: 60px;
+    height: 36px;
+    left: 610px;
+    top: 970px;
+  }
+  .modelsdown {
+    visibility: hidden;
+  }
+  .testdrive {
+    visibility: hidden;
+  }
+  .testdrivescnd {
+    visibility: hidden;
+  }
+  .orderbox {
+    visibility: hidden;
+  }
+  .order {
+    visibility: hidden;
+  }
+  .burger {
+    width: 80px;
+    height: 7px;
+    left: 1100px;
+    top: 75px;
+  }
+  .burger > span,
+  .burger > span::before,
+  .burger > span::after {
+    height: 7px;
+  }
+  .burger > span::before {
+    top: -25px;
+  }
+  .burger > span::after {
+    top: 25px;
+  }
+  .carfrst {
+    max-width: 1057px;
+    max-height: 866px;
+    left: 100px;
+    top: 330px;
+  }
+  .teslawordmarkbig {
+      left: -70px;
+      width: 1414px;
+      height: 467px;
+      top: 180px;
+  }
+  .teslawordmark {
+    position: absolute;
+    width: 450px;
+    height: 140px;
+    top: 24px;
+  }
+  .models {
+    width: 800px;
+    height: 430px;
+    left: 260px;
+    top: 150px;
+    font-weight: 900px;
+    font-size: 100px;
+    line-height: 130px;
+  }
+  .subtitlemodels {
+    height: 240px;
+    width: 600px;
+    left: 350px;
+    top: 280px;
+    font-weight: 900px;
+    font-size: 35px;
+    line-height: 20px;
+  }
+  .modelsup {
+    visibility: hidden;
+  }
+
+  .modelsupunderscore {
+    visibility: hidden;
+  }
+
+  .othermodels {
+    visibility: hidden;
+  }
+
+  .modelx {
+    visibility: hidden;
+  }
+
+  .model3 {
+    visibility: hidden;
+  }
+
+  .modelroadster {
+    visibility: hidden;
+  }
+
+  .modelenergy {
+    visibility: hidden;
+  }
+
+  .shop {
+    visibility: hidden;
+  }
+
+  .join {
+    visibility: hidden;
+  }
+  .rectanglescnd {
+    position: absolute;
+    width: 1300px;
+    height: 1000px;
+    left: 0px;
+    top: 4000px;
+    background: #E51937;
+  }
+
+  .scheme {
+    position: absolute;
+    left: 45px;
+    width: 1250px;
+    top: 3090px;
+  }
+
+  .modelswatermark {
+    width: 2231px;
+    height: 469px;
+    left: -4px;
+    top: 3097px;
+    font-weight: 900;
+    font-size: 300px;
+    line-height: 244px;
+    color: #E51937;
+    opacity: 0.1;
+    font-family: Montserrat;
+    font-style: normal;
+    position: absolute;
+  }
+
+  .mostsafe {
+    width: 1200px;
+    height: 70px;
+    left: 150px;
+    top: 4051px;
+    font-weight: 900;
+    font-size: 90px;
+    line-height: 70px;
+  }
+
+  .mostsafeabout {
+    width: 1000px;
+    height: 406px;
+    left: 130px;
+    top: 4300px;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 60px;
+  }
+
+  .protectionlevel {
+    visibility: hidden;
+  }
+
+  .frontprotection {
+    visibility: hidden;
+  }
+
+  .starline {
+    visibility: hidden;
+  }
+
+  .star {
+    left: 257px;
+  }
+
+  .starsecond {
+    left: 286px;
+  }
+
+  .starthird {
+    left: 315px;
+  }
+
+  .starfourth {
+    left: 344px;
+  }
+
+  .starfifth {
+    left: 372px;
+  }
+
+  .sideprotection {
+    visibility: hidden;
+  }
+
+  .starlinescnd {
+    visibility: hidden;
+  }
+
+  .sideprotectionscnd {
+    visibility: hidden;
+  }
+
+  .stoika {
+    visibility: hidden;
+  }
+
+  .starlinethrd {
+    visibility: hidden;
+  }
+
+  .driver {
+    visibility: hidden;
+  }
+
+  .starlinefrth {
+    visibility: hidden;
+  }
+
+  .starlinefifth {
+    visibility: hidden;
+  }
+
+  .passenger {
+    visibility: hidden;
+  }
+
+  .yep {
+    visibility: hidden;
+  }
+
+  .fivestar {
+    visibility: hidden;
+
+  }
+
+  .bizapasnast {
+    visibility: hidden;
+  }
+
+  .infocirclescnd {
+    visibility: hidden;
+  }
+
+  .infoiscnd {
+    visibility: hidden;
+  }
+
+  .learnmore {
+    visibility: hidden;
+  }
+
+  .orderboxthrd {
+    visibility: hidden;
+  }
+
+  .orderthrd {
+    visibility: hidden;
+  }
+
+  .showcircle {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    border-radius: 14px;
+    background: #FFF;
+    border: 3px solid #E51937;
+    box-sizing: border-box;
+    transform: rotate(-180deg);
+  }
+
+  .showstick {
+    position: absolute;
+    background: #E51937;
+    width: 4px;
+  }
+
+  .circle {
+    left: 705.5px;
+    top: 3630px;
+  }
+
+  .circlescnd {
+    left: 343px;
+    top: 3525px;
+  }
+
+  .circlethrd {
+    left: 645.5px;
+    top: 3314px;
+  }
+
+  .stick {
+    height: 138px;
+    left: 711px;
+    top: 3640px;
+    transform: rotate(-180deg);
+  }
+
+  .stickscnd {
+    width: 4px;
+    height: 301px;
+    left: 348px;
+    top: 3227px;
+  }
+
+  .stickthrd {
+    width: 4px;
+    height: 152px;
+    left: 650px;
+    top: 3170px;
+  }
+
+  .frontprotect {
+    width: 230px;
+    height: 30px;
+    left: 363px;
+    top: 3235px;
+    font-weight: 900;
+    font-size: 27px;
+    line-height: 21px;
+    color: #000;
+  }
+
+  .sideprotect {
+    width: 200px;
+    height: 41px;
+    left: 665px;
+    top: 3175px;
+    font-weight: 900;
+    font-size: 27px;
+    line-height: 21px;
+    color: #000;
+  }
+
+  .minimumrisk {
+    width: 333px;
+    height: 41px;
+    left: 725px;
+    top: 3715px;
+    font-weight: 900;
+    font-size: 27px;
+    line-height: 21px;
+    color: #000;
+  }
+}
+
+@media all and (min-width: 1440px) {
+  .futuredrive {
+    width: 316px;
+    height: 37px;
+    left: 1337px;
+    top: 1051px;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 37px;
+    position: absolute;
+  }
+
+  .describefuture {
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 18px;
+    width: 340px;
+    height: 206px;
+    left: 1337px;
+    top: 1099px;
+    position: absolute;
+  }
+  .rectangle {
+    width: 600px;
+    height: 1000px;
+    left: 1260px;
+    top: 1000px;
+  }
+  .arrow {
+    width: 38px;
+    height: 24px;
+    left: 870px;
+    top: 949px;
+  }
+
+  .modelsdown {
+    visibility: visible;
+  }
+  .testdrive {
+    visibility: visible;
+  }
+  .testdrive2 {
+    visibility: visible;
+  }
+  .orderbox {
+    visibility: visible;
+  }
+  .order {
+    visibility: visible;
+  }
+  .burger {
+    width: 30px;
+    height: 4px;
+    left: 1706px;
+    top: 47px;
+  }
+
+  .burger > span,
+  .burger > span::before,
+  .burger > span::after {
+    height: 4px;
+  }
+
+  .burger > span::before {
+    top: -9px;
+  }
+  .burger > span::after {
+    top: 9px;
+  }
+    .carfrst {
+      max-width: 1268px;
+      max-height: 750px;
+      left: 250px;
+      top: 278px;
+    }
+  .teslawordmarkbig {
+      left: 42.72px;
+      width: 1814px;
+      height: 767px;
+      top: 4px;
+  }
+  .teslawordmark {
+    position: absolute;
+    width: 166px;
+    height: 51px;
+    top: 24px;
+  }
+  .models {
+    width: 370px;
+    height: 110px;
+    left: 735px;
+    top: 133px;
+    font-weight: 600;
+    font-size: 90px;
+    line-height: 110px;
+  }
+  .subtitlemodels {
+    height: 19px;
+    width: 400px;
+    left: 710px;
+    top: 233px;
+    font-weight: 700px;
+    font-size: 20px;
+    line-height: 18px;
+  }
+  .modelsup {
+    visibility: visible;
+  }
+
+  .modelsupunderscore {
+    visibility: visible;
+  }
+
+  .othermodels {
+    visibility: visible;
+  }
+
+  .modelx {
+    visibility: visible;
+  }
+
+  .model3 {
+    visibility: visible;
+  }
+
+  .modelroadster {
+    visibility: visible;
+  }
+
+  .modelenergy {
+    visibility: visible;
+  }
+
+  .shop {
+    visibility: visible;
+  }
+
+  .join {
+    visibility: visible;
+  }
+  .rectanglescnd {
+    position: absolute;
+    width: 600px;
+    height: 900px;
+    left: 0px;
+    top: 2000px;
+    background: #E51937;
+  }
+
+  .scheme {
+    position: absolute;
+    left: 495px;
+    width: 1250px;
+    top: 2090px;
+  }
+
+  .modelswatermark {
+    width: 931px;
+    height: 269px;
+    left: 679px;
+    top: 2097px;
+    font-weight: 600;
+    font-size: 200px;
+    line-height: 244px;
+    color: #E51937;
+    opacity: 0.1;
+  }
+
+  .mostsafe {
+    width: 316px;
+    height: 74px;
+    left: 106px;
+    top: 2051px;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 37px;
+  }
+
+  .mostsafeabout {
+    width: 316px;
+    height: 134px;
+    left: 106px;
+    top: 2137px;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+  }
+
+  .protectionlevel {
+    width: 263px;
+    height: 37px;
+    left: 106px;
+    top: 2320px;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 37px;
+    visibility: visible;
+  }
+
+  .frontprotection {
+    width: 90px;
+    height: 21px;
+    left: 106px;
+    top: 2386px;
+    font-weight: bold;
+    font-size: 17px;
+    line-height: 21px;
+    text-transform: uppercase;
+    visibility: visible;
+  }
+
+  .starline {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 2383px;
+    visibility: visible;
+  }
+
+  .star {
+    left: 257px;
+  }
+
+  .starsecond {
+    left: 286px;
+  }
+
+  .starthird {
+    left: 315px;
+  }
+
+  .starfourth {
+    left: 344px;
+  }
+
+  .starfifth {
+    left: 372px;
+  }
+
+  .sideprotection {
+    width: 64px;
+    height: 21px;
+    left: 106px;
+    top: 2423px;
+    font-weight: bold;
+    font-size: 17px;
+    line-height: 21px;
+    text-transform: uppercase;
+    visibility: visible;
+  }
+
+  .starlinescnd {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 2420px;
+    visibility: visible;
+  }
+
+  .sideprotectionscnd {
+    width: 64px;
+    height: 21px;
+    left: 106px;
+    top: 2460px;
+    font-weight: bold;
+    font-size: 17px;
+    line-height: 21px;
+    text-transform: uppercase;
+    visibility: visible;
+  }
+
+  .stoika {
+    width: 53px;
+    height: 13px;
+    left: 173px;
+    top: 2466px;
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 12px;
+    text-transform: uppercase;
+    visibility: visible;
+  }
+
+  .starlinethrd {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 2457px;
+    visibility: visible;
+  }
+
+  .driver {
+    width: 103px;
+    height: 21px;
+    left: 106px;
+    top: 2497px;
+    font-weight: bold;
+    font-size: 17px;
+    line-height: 21px;
+    text-transform: uppercase;
+    visibility: visible;
+  }
+
+  .starlinefrth {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 2494px;
+    visibility: visible;
+  }
+
+  .starlinefifth {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 2531px;
+    visibility: visible;
+  }
+
+  .passenger {
+    top: 2534px;
+    visibility: visible;
+  }
+
+  .yep {
+    position: absolute;
+    width: 62px;
+    height: 74px;
+    left: 116px;
+    top: 2666px;
+    visibility: visible;
+  }
+
+  .fivestar {
+    width: 195px;
+    height: 92px;
+    left: 201px;
+    top: 2657px;
+    font-weight: 600;
+    font-size: 50px;
+    visibility: visible;
+
+  }
+
+  .bizapasnast {
+    width: 187px;
+    height: 31px;
+    left: 200px;
+    top: 2709px;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    visibility: visible;
+  }
+
+  .infocirclescnd {
+    position: absolute;
+    left: 88px;
+    top: 2808px;
+    height: 22px;
+    width: 22px;
+    border-radius: 22px;
+    border: 2px solid #FFF;
+    box-sizing: border-box;
+    visibility: visible;
+  }
+
+  .infoiscnd {
+    left: 97px;
+    top: 2811px;
+    height: 16px;
+    width: 4px;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 16px;
+    text-align: center;
+    visibility: visible;
+  }
+
+  .learnmore {
+    left: 108px;
+    top: 2811px;
+    height: 24px;
+    width: 147px;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 16px;
+    text-align: center;
+    text-transform: uppercase;
+    visibility: visible;
+  }
+
+  .orderboxthrd {
+    position: absolute;
+    left: 325px;
+    top: 2800px;
+    height: 40px;
+    width: 160px;
+    border: 2px solid #FFF;
+    box-sizing: border-box;
+    visibility: visible;
+  }
+
+  .orderthrd {
+    left: 332px;
+    top: 2811px;
+    height: 24px;
+    width: 147px;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 16px;
+    text-align: center;
+    text-transform: uppercase;
+    visibility: visible;
+  }
+
+  .showcircle {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    border-radius: 14px;
+    background: #FFF;
+    border: 3px solid #E51937;
+    box-sizing: border-box;
+    transform: rotate(-180deg);
+  }
+
+  .showstick {
+    position: absolute;
+    background: #E51937;
+    width: 4px;
+  }
+
+  .circle {
+    left: 1155.5px;
+    top: 2630px;
+  }
+
+  .circlescnd {
+    left: 793px;
+    top: 2525px;
+  }
+
+  .circlethrd {
+    left: 1095.5px;
+    top: 2314px;
+  }
+
+  .stick {
+    height: 108px;
+    left: 1161px;
+    top: 2640px;
+    transform: rotate(-180deg);
+  }
+
+  .stickscnd {
+    width: 4px;
+    height: 271px;
+    left: 798px;
+    top: 2257px;
+  }
+
+  .stickthrd {
+    width: 4px;
+    height: 122px;
+    left: 1100px;
+    top: 2200px;
+  }
+
+  .frontprotect {
+    width: 172.68px;
+    height: 30px;
+    left: 813px;
+    top: 2259px;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 15px;
+    color: #000;
+  }
+
+  .sideprotect {
+    width: 173px;
+    height: 41px;
+    left: 1110px;
+    top: 2200px;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 15px;
+    color: #000;
+  }
+
+  .minimumrisk {
+    width: 233px;
+    height: 41px;
+    left: 1175px;
+    top: 2715px;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 15px;
+    color: #000;
+  }
+}
+
+.teslawordmark {
+  position: absolute;
+}
+
+.teslawordmarkbig {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  opacity: 10%;
+}
+
+.models {
+  position: absolute;
+  font-family: Montserrat;
+  font-style: normal;
+  display: flex;
+  justify-content: center;
+}
+
+.carfrst {
+  position: absolute;
+}
+
+.subtitlemodels {
+  position: absolute;
+  font-family: Montserrat;
+  font-style: normal;
+  display: flex;
+  justify-content: center;
+}
+
+.burger {
+  background: #E51937;
+  position: absolute;
+  cursor: pointer;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+}
+
+.burger > span,
+.burger > span::before,
+.burger > span::after {
+  display: block;
+  position: absolute;
+  width: 100%;
+  background-color: #E51937;
+}
+
+.burger > span::before {
+  content: '';
+}
+.burger > span::after {
+  content: '';
+}
+
+.modelsup {
+  position: absolute;
+  width: 62px;
+  height: 19px;
+  left: 610.86px;
+  top: 40px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 18px;
+  color: #E51937;
+}
+
+.modelsupunderscore {
+  position: absolute;
+  width: 60px;
+  height: 2px;
+  left: 611.86px;
+  top: 65px;
+  background: #E51937;
+}
+
+.othermodels {
+  position: absolute;
+  width: 63px;
+  height: 19px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 18px;
+  top: 40px;
+}
+
+.modelx {
+  left: 740px;
+}
+
+.model3 {
+  left: 850.86px;
+}
+
+.modelroadster {
+  left: 970.86px;
+}
+
+.modelenergy {
+  left: 1090.86px;
+}
+
+.shop {
+  width: 69px;
+  height: 19px;
+  left: 1527px;
+}
+
+.join {
+  width: 50px;
+  height: 19px;
+  left: 1626px;
+}
+
+.speedinfo {
+  position: absolute;
+  width: 66px;
+  height: 54.13px;
+  left: 421;
+  top: 865px;
+}
+
+.orderbox {
+  position: absolute;
+  width: 160px;
+  height: 40px;
+  left: 1200px;
+  top: 865px;
+  border: 2px solid #E51937;
+  box-sizing: border-box;
+}
+
+.order {
+  position: absolute;
+  width: 147px;
+  height: 24px;
+  left: 1207px;
+  top: 876px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 13px;
+  line-height: 16px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #E51937;
+}
+
+.speedinfoscnd {
+  position: absolute;
+  width: 51px;
+  height: 43px;
+  left: 491px;
+  top: 855px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 35px;
+  line-height: 43px;
+}
+
+.speedinfothrd {
+  position: absolute;
+  width: 37px;
+  height: 25px;
+  left: 548px;
+  top: 870px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.speedinfofrth {
+  position: absolute;
+  width: 90px;
+  height: 15px;
+  left: 491px;
+  top: 896px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 15px;
+}
+
+.trail {
+  position: absolute;
+  width: 49px;
+  height: 64.97px;
+  left: 676px;
+  top: 858.5px;
+}
+
+.trailscnd {
+  position: absolute;
+  width: 63px;
+  height: 43px;
+  left: 727.5px;
+  top: 854px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 35px;
+  line-height: 43px;
+}
+
+.trailthrd {
+  position: absolute;
+  width: 29px;
+  height: 25px;
+  left: 797px;
+  top: 869px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.trailfrth {
+  position: absolute;
+  width: 120px;
+  height: 15px;
+  left: 730.5px;
+  top: 895px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 15px;
+}
+
+.testdrive {
+  position: absolute;
+  width: 42px;
+  height: 42px;
+  left: 951px;
+  top: 864px;
+}
+
+.testdrivescnd {
+  position: absolute;
+  width: 120px;
+  height: 18px;
+  left: 1000px;
+  top: 877px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 16px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.arrow {
+  position: absolute;
+}
+
+.modelsdown {
+  position: absolute;
+  width: 288px;
+  height: 86px;
+  left: 80px;
+  top: 1000px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 70px;
+  line-height: 85px;
+  color: #E51937;
+}
+
+.cockpit {
+  position: absolute;
+  width: 1600px;
+  height: 1044px;
+  left: -275px;
+  top: 956px;
+}
+
+.rectangle {
+  position: absolute;
+  background: #E51937;
+}
+.futuredrive {
+  position: absolute;
+  visibility: visible;
+}
+.describe_future {
+  position: absolute;
+  visibility: visible;
+}
+
+.display {
+  position: absolute;
+  width: 36px;
+  height: 53px;
+  left: 1337px;
+  top: 1421px;
+  border: 4px solid #FFF;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+
+.displayscnd {
+  position: absolute;
+  width: 9px;
+  height: 9px;
+  left: 1350px;
+  top: 1456px;
+  background: #FFF;
+  border-radius: 9px;
+}
+
+.displaysize {
+  width: 35px;
+  height: 43px;
+  left: 1392px;
+  top: 1409px;
+  font-weight: 600;
+  font-size: 35px;
+  line-height: 43px;
+}
+
+.displaydium {
+  width: 87px;
+  height: 25px;
+  left: 1437px;
+  top: 1424px;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.displaydiumabout {
+  width: 127px;
+  height: 15px;
+  left: 1392px;
+  top: 1450px;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+}
+
+.updateico {
+  position: absolute;
+  width: 44px;
+  height: 34px;
+  left: 1333px;
+  top: 1526px;
+}
+
+.freeupdate {
+  width: 172.68px;
+  height: 36px;
+  left: 1397px;
+  top: 1509px;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 18px;
+}
+
+.standart {
+  color: #FFFF;
+  font-family: Montserrat;
+  font-style: normal;
+  position: absolute;
+  z-index: 10;
+}
+
+.standartscnd {
+  color: black;
+  font-family: Montserrat;
+  font-style: normal;
+  position: absolute;
+  z-index: 10;
+}
+
+.highquality {
+  width: 205px;
+  height: 30px;
+  left: 1397px;
+  top: 1550px;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+}
+
+.case {
+  position: absolute;
+  width: 36px;
+  height: 44px;
+  left: 1337px;
+  top: 1626px;
+  border: 4px solid #FFF;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+
+.casescnd {
+  position: absolute;
+  width: 18px;
+  height: 12px;
+  left: 1346px;
+  top: 1618px;
+  border: 4px solid #FFF;
+  box-sizing: border-box;
+  border-radius: 5px 5px 0px 0px;
+}
+
+.volume {
+  width: 69px;
+  height: 43px;
+  left: 1397px;
+  top: 1605px;
+  font-weight: 600;
+  font-size: 35px;
+  line-height: 43px;
+}
+
+.volumescnd {
+  width: 63px;
+  height: 25px;
+  left: 1476px;
+  top: 1620px;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.volumeabout {
+  width: 127px;
+  height: 30px;
+  left: 1397px;
+  top: 1646px;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+}
+
+.infocircle {
+  position: absolute;
+  left: 1334px;
+  top: 1905px;
+  width: 22px;
+  height: 22px;
+  border: 2px solid #FFF;
+  box-sizing: border-box;
+  border-radius: 22px;
+}
+
+.infoi {
+  width: 147px;
+  height: 24px;
+  left: 1343px;
+  top: 1908px;
+  font-weight: bold;
+  font-size: 13px;
+  line-height: 16px;
+}
+
+.infomore {
+  top: 1908px;
+  left:1352px;
+  width: 147px;
+  height: 24px;
+  font-weight: bold;
+  font-size: 13px;
+  line-height: 16px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.orderboxscnd {
+  position: absolute;
+  left: 1521px;
+  top: 1897;
+  width: 160px;
+  height: 40px;
+  border: 2px solid #FFF;
+  box-sizing: border-box;
+}
+
+.orderscnd {
+  left: 1528px;
+  top: 1908px;
+  height: 24px;
+  width: 147px;
+  font-weight: bold;
+  font-size: 13px;
+  line-height: 16px;
+  text-align: center;
+  text-transform: uppercase;
+}
