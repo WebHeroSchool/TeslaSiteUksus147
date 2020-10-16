@@ -74,7 +74,7 @@
       top: 180px;
   }
   .teslawordmark {
-    position: absolute;
+
     width: 450px;
     height: 140px;
     top: 24px;
@@ -133,7 +133,7 @@
     visibility: hidden;
   }
   .rectanglescnd {
-    position: absolute;
+    
     width: 1300px;
     height: 1000px;
     left: 0px;
@@ -142,7 +142,7 @@
   }
 
   .scheme {
-    position: absolute;
+    
     left: 45px;
     width: 1250px;
     top: 3090px;
@@ -160,7 +160,7 @@
     opacity: 0.1;
     font-family: Montserrat;
     font-style: normal;
-    position: absolute;
+    
   }
 
   .mostsafe {
@@ -285,7 +285,7 @@
   }
 
   .showcircle {
-    position: absolute;
+    
     width: 14px;
     height: 14px;
     border-radius: 14px;
@@ -296,7 +296,7 @@
   }
 
   .showstick {
-    position: absolute;
+    
     background: #E51937;
     width: 4px;
   }
@@ -380,7 +380,7 @@
     font-weight: 600;
     font-size: 30px;
     line-height: 37px;
-    position: absolute;
+
   }
 
   .describefuture {
@@ -391,7 +391,7 @@
     height: 206px;
     left: 1337px;
     top: 1099px;
-    position: absolute;
+    
   }
   .rectangle {
     width: 600px;
@@ -453,7 +453,7 @@
       top: 4px;
   }
   .teslawordmark {
-    position: absolute;
+    
     width: 166px;
     height: 51px;
     top: 24px;
@@ -512,7 +512,7 @@
     visibility: visible;
   }
   .rectanglescnd {
-    position: absolute;
+    
     width: 600px;
     height: 900px;
     left: 0px;
@@ -521,7 +521,7 @@
   }
 
   .scheme {
-    position: absolute;
+    
     left: 495px;
     width: 1250px;
     top: 2090px;
@@ -583,7 +583,7 @@
   }
 
   .starline {
-    position: absolute;
+   
     width: 25px;
     height: 25px;
     top: 2383px;
@@ -623,7 +623,7 @@
   }
 
   .starlinescnd {
-    position: absolute;
+  
     width: 25px;
     height: 25px;
     top: 2420px;
@@ -655,7 +655,7 @@
   }
 
   .starlinethrd {
-    position: absolute;
+    
     width: 25px;
     height: 25px;
     top: 2457px;
@@ -675,7 +675,7 @@
   }
 
   .starlinefrth {
-    position: absolute;
+   
     width: 25px;
     height: 25px;
     top: 2494px;
@@ -683,7 +683,7 @@
   }
 
   .starlinefifth {
-    position: absolute;
+ 
     width: 25px;
     height: 25px;
     top: 2531px;
@@ -696,7 +696,7 @@
   }
 
   .yep {
-    position: absolute;
+  
     width: 62px;
     height: 74px;
     left: 116px;
@@ -727,7 +727,7 @@
   }
 
   .infocirclescnd {
-    position: absolute;
+ 
     left: 88px;
     top: 2808px;
     height: 22px;
@@ -764,7 +764,7 @@
   }
 
   .orderboxthrd {
-    position: absolute;
+ 
     left: 325px;
     top: 2800px;
     height: 40px;
@@ -788,7 +788,7 @@
   }
 
   .showcircle {
-    position: absolute;
+   
     width: 14px;
     height: 14px;
     border-radius: 14px;
@@ -799,7 +799,7 @@
   }
 
   .showstick {
-    position: absolute;
+  
     background: #E51937;
     width: 4px;
   }
@@ -874,31 +874,31 @@
   }
 }
 
-.teslawordmark {
-  position: absolute;
-}
+
+
+
 
 .teslawordmarkbig {
-  position: absolute;
+ 
   display: flex;
   justify-content: center;
   opacity: 10%;
 }
 
 .models {
-  position: absolute;
+
   font-family: Montserrat;
   font-style: normal;
   display: flex;
   justify-content: center;
 }
 
-.carfrst {
-  position: absolute;
-}
+
+ 
+
 
 .subtitlemodels {
-  position: absolute;
+ 
   font-family: Montserrat;
   font-style: normal;
   display: flex;
@@ -907,7 +907,7 @@
 
 .burger {
   background: #E51937;
-  position: absolute;
+ 
   cursor: pointer;
   z-index: 1;
   display: flex;
@@ -918,7 +918,7 @@
 .burger > span::before,
 .burger > span::after {
   display: block;
-  position: absolute;
+
   width: 100%;
   background-color: #E51937;
 }
@@ -931,7 +931,7 @@
 }
 
 .modelsup {
-  position: absolute;
+  
   width: 62px;
   height: 19px;
   left: 610.86px;
@@ -945,7 +945,7 @@
 }
 
 .modelsupunderscore {
-  position: absolute;
+  
   width: 60px;
   height: 2px;
   left: 611.86px;
@@ -954,7 +954,7 @@
 }
 
 .othermodels {
-  position: absolute;
+ 
   width: 63px;
   height: 19px;
   font-family: Montserrat;
@@ -994,7 +994,7 @@
 }
 
 .speedinfo {
-  position: absolute;
+
   width: 66px;
   height: 54.13px;
   left: 421;
@@ -1002,7 +1002,7 @@
 }
 
 .orderbox {
-  position: absolute;
+
   width: 160px;
   height: 40px;
   left: 1200px;
@@ -1012,7 +1012,7 @@
 }
 
 .order {
-  position: absolute;
+
   width: 147px;
   height: 24px;
   left: 1207px;
@@ -1028,7 +1028,7 @@
 }
 
 .speedinfoscnd {
-  position: absolute;
+
   width: 51px;
   height: 43px;
   left: 491px;
@@ -1041,7 +1041,7 @@
 }
 
 .speedinfothrd {
-  position: absolute;
+  
   width: 37px;
   height: 25px;
   left: 548px;
@@ -1054,7 +1054,7 @@
 }
 
 .speedinfofrth {
-  position: absolute;
+
   width: 90px;
   height: 15px;
   left: 491px;
@@ -1067,7 +1067,7 @@
 }
 
 .trail {
-  position: absolute;
+
   width: 49px;
   height: 64.97px;
   left: 676px;
@@ -1075,7 +1075,7 @@
 }
 
 .trailscnd {
-  position: absolute;
+  
   width: 63px;
   height: 43px;
   left: 727.5px;
@@ -1088,7 +1088,7 @@
 }
 
 .trailthrd {
-  position: absolute;
+  
   width: 29px;
   height: 25px;
   left: 797px;
@@ -1101,7 +1101,7 @@
 }
 
 .trailfrth {
-  position: absolute;
+  
   width: 120px;
   height: 15px;
   left: 730.5px;
@@ -1114,7 +1114,7 @@
 }
 
 .testdrive {
-  position: absolute;
+ 
   width: 42px;
   height: 42px;
   left: 951px;
@@ -1122,7 +1122,7 @@
 }
 
 .testdrivescnd {
-  position: absolute;
+ 
   width: 120px;
   height: 18px;
   left: 1000px;
@@ -1136,12 +1136,12 @@
   text-transform: uppercase;
 }
 
-.arrow {
-  position: absolute;
-}
+
+
+
 
 .modelsdown {
-  position: absolute;
+
   width: 288px;
   height: 86px;
   left: 80px;
@@ -1155,7 +1155,7 @@
 }
 
 .cockpit {
-  position: absolute;
+
   width: 1600px;
   height: 1044px;
   left: -275px;
@@ -1163,11 +1163,11 @@
 }
 
 .rectangle {
-  position: absolute;
+
   background: #E51937;
 }
 .futuredrive {
-  position: absolute;
+
   visibility: visible;
 }
 .describe_future {
@@ -1176,7 +1176,7 @@
 }
 
 .display {
-  position: absolute;
+  
   width: 36px;
   height: 53px;
   left: 1337px;
@@ -1187,7 +1187,7 @@
 }
 
 .displayscnd {
-  position: absolute;
+
   width: 9px;
   height: 9px;
   left: 1350px;
@@ -1227,7 +1227,7 @@
 }
 
 .updateico {
-  position: absolute;
+
   width: 44px;
   height: 34px;
   left: 1333px;
@@ -1248,7 +1248,7 @@
   color: #FFFF;
   font-family: Montserrat;
   font-style: normal;
-  position: absolute;
+ 
   z-index: 10;
 }
 
@@ -1256,7 +1256,7 @@
   color: black;
   font-family: Montserrat;
   font-style: normal;
-  position: absolute;
+  
   z-index: 10;
 }
 
@@ -1271,7 +1271,7 @@
 }
 
 .case {
-  position: absolute;
+
   width: 36px;
   height: 44px;
   left: 1337px;
@@ -1282,7 +1282,7 @@
 }
 
 .casescnd {
-  position: absolute;
+
   width: 18px;
   height: 12px;
   left: 1346px;
@@ -1323,7 +1323,7 @@
 }
 
 .infocircle {
-  position: absolute;
+ 
   left: 1334px;
   top: 1905px;
   width: 22px;
